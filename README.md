@@ -13,6 +13,6 @@ MFC와 C++ DLL을 활용한 로그인 및 SHA256 암호화 연습 프로젝트�
 2. LoginApp.exe와 MyCrypto.dll 두 파일을 동일 디렉토리에 위치시킵니다.
 3. `LoginApp.exe`를 실행합니다.
 
-## 🔑 테스트 계정
+## 테스트 계정
 - **ID**: admin
 - **PW**: admin12
